@@ -8,6 +8,23 @@
 https://blog.csdn.net/Eastmount/article/details/104383134
 
 
+```c
+git init
+git status
+git add .
+git status
+
+
+git commit -m 'NSS'
+
+
+git remote add origin git@github.com:eastmountyxz/CSDNBlog-Security-Based.git
+
+
+git pull --rebase origin master
+
+git push -u origin master
+```
 
 ---
 
