@@ -66,6 +66,28 @@
 [网络安全自学篇] 四十七.微软证书漏洞CVE-2020-0601 (下)Windows证书签名及HTTPS网站劫持 <br />
 [[网络安全自学篇] 四十八.Cracer第八期——(1)安全术语、Web渗透流程、Windows基础、注册表及黑客常用DOS命令](https://blog.csdn.net/Eastmount/article/details/104383134) <br />
 
+[[网络安全自学篇] 四十九.Procmon软件基本用法及文件进程、注册表查看](https://blog.csdn.net/Eastmount/article/details/104480406)
+[[网络安全自学篇] 五十.虚拟机基础之安装XP系统、文件共享、网络快照设置及Wireshark抓取BBS密码](https://blog.csdn.net/Eastmount/article/details/104536766)
+[[网络安全自学篇] 五十一.恶意样本分析及HGZ木马控制目标服务器](https://blog.csdn.net/Eastmount/article/details/104547485)
+[网络安全自学篇] 五十二.Windows漏洞利用之栈溢出原理和栈保护GS机制
+[[网络安全自学篇] 五十三.Windows漏洞利用之Metasploit实现栈溢出攻击及反弹shell](https://blog.csdn.net/Eastmount/article/details/104573931)
+[[网络安全自学篇] 五十四.Windows漏洞利用之基于SEH异常处理机制的栈溢出攻击及shell提取](https://blog.csdn.net/Eastmount/article/details/104593520)
+[[网络安全自学篇] 五十五.Windows漏洞利用之构建ROP链绕过DEP并获取Shell](https://blog.csdn.net/Eastmount/article/details/104612053)
+[[网络安全自学篇] 五十六.i春秋老师分享小白渗透之路及Web渗透技术总结](https://blog.csdn.net/Eastmount/article/details/104639277)
+[[网络安全自学篇] 五十七.PE文件逆向之什么是数字签名及Signtool签名工具详解（一）](https://blog.csdn.net/Eastmount/article/details/104769616)
+[[网络安全自学篇] 五十八.Windows漏洞利用之再看CVE-2019-0708及Metasploit反弹shell](https://blog.csdn.net/Eastmount/article/details/104801332)
+[[网络安全自学篇] 五十九.Windows漏洞利用之MS08-067远程代码执行漏洞复现及shell深度提权](https://blog.csdn.net/Eastmount/article/details/104834931)
+[[网络安全自学篇] 六十.Cracer第八期——(2)五万字总结Linux基础知识和常用渗透命令](https://blog.csdn.net/Eastmount/article/details/104843609)
+[[网络安全自学篇] 六十一.PE文件逆向之数字签名详细解析及Signcode、PEView、010Editor、Asn1View等工具用法（二）](https://blog.csdn.net/Eastmount/article/details/105074188)
+[[网络安全自学篇] 六十二.PE文件逆向之PE文件解析、PE编辑工具使用和PE结构修改（三）](https://blog.csdn.net/Eastmount/article/details/105080804)
+[[网络安全自学篇] 六十三.hack the box渗透之OpenAdmin题目及蚁剑管理员提权（四）](https://blog.csdn.net/Eastmount/article/details/105118450)
+[[网络安全自学篇] 六十四.Windows漏洞利用之SMBv3服务远程代码执行漏洞（CVE-2020-0796）复现及详解](https://blog.csdn.net/Eastmount/article/details/105350314)
+[[网络安全自学篇] 六十五.Vulnhub靶机渗透之环境搭建及JIS-CTF入门和蚁剑提权示例（一）](https://blog.csdn.net/Eastmount/article/details/105423490)
+[[网络安全自学篇] 六十六.Vulnhub靶机渗透之DC-1提权和Drupal漏洞利用（二）](https://blog.csdn.net/Eastmount/article/details/105442329)
+
+
+
+<br />
 
 ```c
 git init
