@@ -83,7 +83,12 @@
 [[网络安全自学篇] 六十四.Windows漏洞利用之SMBv3服务远程代码执行漏洞（CVE-2020-0796）复现及详解](https://blog.csdn.net/Eastmount/article/details/105350314) <br />
 [[网络安全自学篇] 六十五.Vulnhub靶机渗透之环境搭建及JIS-CTF入门和蚁剑提权示例（一）](https://blog.csdn.net/Eastmount/article/details/105423490) <br />
 [[网络安全自学篇] 六十六.Vulnhub靶机渗透之DC-1提权和Drupal漏洞利用（二）](https://blog.csdn.net/Eastmount/article/details/105442329) <br />
-
+[[网络安全自学篇] 六十七.WannaCry勒索病毒复现及分析（一）Python利用永恒之蓝及Win7勒索加密](https://blog.csdn.net/Eastmount/article/details/105407843) <br />
+[[网络安全自学篇] 六十八.WannaCry勒索病毒复现及分析（二）MS17-010利用及病毒解析](https://blog.csdn.net/Eastmount/article/details/105640538) <br />
+[[网络安全自学篇] 六十九.宏病毒之入门基础、防御措施、自发邮件及APT28样本分析](https://blog.csdn.net/Eastmount/article/details/105646194) <br />
+[[网络安全自学篇] 七十.WannaCry勒索病毒复现及分析（三）蠕虫传播机制分析及IDA和OD逆向](https://blog.csdn.net/Eastmount/article/details/105760940) <br />
+[[网络安全自学篇] 七十一.深信服分享之外部威胁防护和勒索病毒对抗](https://blog.csdn.net/Eastmount/article/details/105808305) <br />
+[[网络安全自学篇] 七十二.逆向分析之OllyDbg动态调试工具（一）基础入门及TraceMe案例分析](https://blog.csdn.net/Eastmount/article/details/105843983) <br />
 
 
 <br />
