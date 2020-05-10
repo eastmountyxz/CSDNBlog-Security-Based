@@ -89,6 +89,7 @@
 [[网络安全自学篇] 七十.WannaCry勒索病毒复现及分析（三）蠕虫传播机制分析及IDA和OD逆向](https://blog.csdn.net/Eastmount/article/details/105760940) <br />
 [[网络安全自学篇] 七十一.深信服分享之外部威胁防护和勒索病毒对抗](https://blog.csdn.net/Eastmount/article/details/105808305) <br />
 [[网络安全自学篇] 七十二.逆向分析之OllyDbg动态调试工具（一）基础入门及TraceMe案例分析](https://blog.csdn.net/Eastmount/article/details/105843983) <br />
+[[网络安全自学篇] 七十三.WannaCry勒索病毒复现及分析（四）蠕虫传播机制全网源码详细解读](https://blog.csdn.net/Eastmount/article/details/105903050)  <br />
 
 
 <br />
