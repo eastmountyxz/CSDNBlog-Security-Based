@@ -91,6 +91,9 @@
 [[网络安全自学篇] 七十二.逆向分析之OllyDbg动态调试工具（一）基础入门及TraceMe案例分析](https://blog.csdn.net/Eastmount/article/details/105843983) <br />
 [[网络安全自学篇] 七十三.WannaCry勒索病毒复现及分析（四）蠕虫传播机制全网源码详细解读](https://blog.csdn.net/Eastmount/article/details/105903050)  <br />
 
+[[网络安全自学篇] 八十.WHUCTF之WEB类解题思路WP（代码审计、文件包含、过滤绕过、SQL注入）](https://blog.csdn.net/Eastmount/article/details/106409569) <br />
+[[网络安全自学篇] 八十一.WHUCTF之WEB类解题思路WP（文件上传漏洞、冰蝎蚁剑、反序列化phar）](https://blog.csdn.net/Eastmount/article/details/106428277) <br />
+[[网络安全自学篇] 八十二.WHUCTF之隐写和逆向类解题思路WP（文字解密、图片解密、佛语解码、冰蝎流量分析、逆向分析）](https://blog.csdn.net/Eastmount/article/details/106459166) <br />
 
 <br />
 
