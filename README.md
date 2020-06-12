@@ -90,7 +90,12 @@
 [[网络安全自学篇] 七十一.深信服分享之外部威胁防护和勒索病毒对抗](https://blog.csdn.net/Eastmount/article/details/105808305) <br />
 [[网络安全自学篇] 七十二.逆向分析之OllyDbg动态调试工具（一）基础入门及TraceMe案例分析](https://blog.csdn.net/Eastmount/article/details/105843983) <br />
 [[网络安全自学篇] 七十三.WannaCry勒索病毒复现及分析（四）蠕虫传播机制全网源码详细解读](https://blog.csdn.net/Eastmount/article/details/105903050)  <br />
-
+[[网络安全自学篇] 七十四.APT攻击检测溯源与常见APT组织的攻击案例](https://blog.csdn.net/Eastmount/article/details/106009460) <br />
+[[网络安全自学篇] 七十五.Vulnhub靶机渗透之bulldog信息收集和nc反弹shell（三）](https://blog.csdn.net/Eastmount/article/details/106066009) <br />
+[[网络安全自学篇] 七十六.逆向分析之OllyDbg动态调试工具（二）INT3断点、反调试、硬件断点与内存断点](https://blog.csdn.net/Eastmount/article/details/106100467) <br />
+[[网络安全自学篇] 七十七.恶意代码与APT攻击中的武器（强推Seak老师）](https://blog.csdn.net/Eastmount/article/details/106110294) <br />
+[[网络安全自学篇] 七十八.XSS跨站脚本攻击案例分享及总结（二）](https://blog.csdn.net/Eastmount/article/details/106183208) <br />
+[[网络安全自学篇] 七十九.Windows PE病毒原理、分类及感染方式详解](https://blog.csdn.net/Eastmount/article/details/106204633) <br />
 [[网络安全自学篇] 八十.WHUCTF之WEB类解题思路WP（代码审计、文件包含、过滤绕过、SQL注入）](https://blog.csdn.net/Eastmount/article/details/106409569) <br />
 [[网络安全自学篇] 八十一.WHUCTF之WEB类解题思路WP（文件上传漏洞、冰蝎蚁剑、反序列化phar）](https://blog.csdn.net/Eastmount/article/details/106428277) <br />
 [[网络安全自学篇] 八十二.WHUCTF之隐写和逆向类解题思路WP（文字解密、图片解密、佛语解码、冰蝎流量分析、逆向分析）](https://blog.csdn.net/Eastmount/article/details/106459166) <br />
