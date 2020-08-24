@@ -109,6 +109,8 @@
 [[网络安全自学篇] 九十.远控木马详解及APT攻击中的远控](https://blog.csdn.net/Eastmount/article/details/107449094)  <br />
 [[网络安全自学篇] 九十一.阿里云搭建LNMP环境及实现PHP自定义网站IP访问 (1)](https://blog.csdn.net/Eastmount/article/details/107579485)  <br />
 [[网络安全自学篇] 九十二.《Windows黑客编程技术详解》之病毒启动技术创建进程API、突破SESSION0隔离、内存加载详解（3）](https://blog.csdn.net/Eastmount/article/details/107578717)  <br />
+[[网络安全自学篇] 九十三.《Windows黑客编程技术详解》之木马开机自启动技术（注册表、计划任务、系统服务）](https://blog.csdn.net/Eastmount/article/details/108020041)  <br />
+
 
 <br />
 
