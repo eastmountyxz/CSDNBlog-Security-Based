@@ -116,6 +116,7 @@
 <br />
 
 ```c
+//上传数据
 git init
 git status
 git add .
@@ -123,6 +124,11 @@ git status
 git commit -m 'NSS'
 git remote add origin git@github.com:eastmountyxz/CSDNBlog-Security-Based.git
 git pull --rebase origin master
+git push -u origin master
+
+//删除数据
+git rm -r --cached blog03_05_tfidf.py
+git commit -m 'del files'
 git push -u origin master
 ```
 
