@@ -5,6 +5,8 @@
 作者：CSDN Eastmount xiuzhang <br />
 博客：https://blog.csdn.net/eastmount/category_9183790.html
 
+该类文章数量较大，推荐读者直接在百度网盘下载，Github可以在线阅读使用。地址如下： <br />
+
 
 ---
 
@@ -15,7 +17,7 @@
 
 
 
-**前文学习：**
+**基础自学篇：**
 
 [[网络安全自学篇] 一.入门笔记之看雪Web安全学习及异或解密示例](https://blog.csdn.net/Eastmount/article/details/97784774) <br />
 [[网络安全自学篇] 二.Chrome浏览器保留密码功能渗透解析及登录加密入门笔记](https://blog.csdn.net/Eastmount/article/details/98340074) <br />
@@ -115,7 +117,7 @@
 
 <br />
 
-**提升篇：**
+**安全提高篇：**
 
 
 
