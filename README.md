@@ -130,6 +130,7 @@
 - [[网络安全提高篇] 一〇五.SQL注入之揭秘Oracle数据库注入漏洞和致命问题（联合Cream老师）](https://blog.csdn.net/Eastmount/article/details/115050808)
 - [[网络安全提高篇] 一〇六.SQL注入之手工注入和SQLMAP入门案例详解](https://blog.csdn.net/Eastmount/article/details/115252972)
 - [[网络安全提高篇] 一〇七.安全威胁框架理解及勒索病毒取证溯源分析（蓝队）](https://blog.csdn.net/Eastmount/article/details/114959855)
+- [网络安全提高篇] 一〇八.Powershell和PowerSploit脚本渗透详解 (1)
 
 
 
