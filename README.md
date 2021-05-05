@@ -9,6 +9,7 @@
 - 网址：https://pan.baidu.com/s/1iOaO70b-xAr5WRcEm1NrhQ 
 - 密码：uuje 
 
+百度网盘中下架，大家可以私聊我CSDN。
 
 作者作为网络安全的小白，分享一些自学基础教程给大家，主要是关于安全工具和实践操作的在线笔记，希望您们喜欢。同时，更希望您能与我一起操作和进步，后续将深入学习网络安全和系统安全知识并分享相关实验。总之，希望该系列文章对博友有所帮助，写文不易，大神们不喜勿喷，谢谢！如果文章对您有帮助，将是我创作的最大动力，点赞、评论、私聊均可，一起加油喔~
 
@@ -127,6 +128,7 @@
 - [[网络安全提高篇] 一〇三.Metasploit后渗透技术之信息收集、权限提权、移植漏洞模块和后门](https://blog.csdn.net/Eastmount/article/details/114188641)
 - [[网络安全提高篇] 一〇四.网络渗透靶场Oracle+phpStudy本地搭建万字详解（SQL注入、XSS攻击、文件上传漏洞）](https://blog.csdn.net/Eastmount/article/details/115057662)
 - [[网络安全提高篇] 一〇五.SQL注入之揭秘Oracle数据库注入漏洞和致命问题（联合Cream老师）](https://blog.csdn.net/Eastmount/article/details/115050808)
+- [[网络安全提高篇] 一〇六.SQL注入之手工注入和SQLMAP入门案例详解](https://blog.csdn.net/Eastmount/article/details/115252972)
 - [[网络安全提高篇] 一〇七.安全威胁框架理解及勒索病毒取证溯源分析（蓝队）](https://blog.csdn.net/Eastmount/article/details/114959855)
 
 
