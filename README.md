@@ -55,7 +55,7 @@
 - [网络安全自学篇] 三十二.文件上传漏洞之Upload-labs靶场及CTF题目11-20（五）  <br />
 - [[网络安全自学篇] 三十三.文件上传漏洞之绕狗一句话原理和绕过安全狗（六）](https://blog.csdn.net/Eastmount/article/details/103612329) <br />
 - [[网络安全自学篇] 三十四.Windows系统漏洞之5次Shift漏洞启动计算机](https://blog.csdn.net/Eastmount/article/details/103618914) <br />
-- [[网络安全自学篇] 三十五.恶意代码攻击溯源及恶意样本分析](https://blog.csdn.net/Eastmount/article/details/103703819) <br /> 
+- [[网络安全自学篇] 三十五.恶意代码攻击检测及恶意样本分析](https://blog.csdn.net/Eastmount/article/details/103703819) <br /> 
 - [[网络安全自学篇] 三十六.WinRAR漏洞复现（CVE-2018-20250）及恶意软件自启动劫持](https://blog.csdn.net/Eastmount/article/details/103876466) <br />
 - [[网络安全自学篇] 三十七.Web渗透提高班之hack the box在线靶场注册及入门知识](https://blog.csdn.net/Eastmount/article/details/103896845) <br />
 - [[网络安全自学篇] 三十八.hack the box渗透之BurpSuite和Hydra密码爆破及Python加密Post请求（二）](https://blog.csdn.net/Eastmount/article/details/103938700) <br />
@@ -126,7 +126,6 @@
 - [[网络安全提高篇] 一〇四.网络渗透靶场Oracle+phpStudy本地搭建万字详解（SQL注入、XSS攻击、文件上传漏洞）](https://blog.csdn.net/Eastmount/article/details/115057662)
 - [[网络安全提高篇] 一〇五.SQL注入之揭秘Oracle数据库注入漏洞和致命问题（联合Cream老师）](https://blog.csdn.net/Eastmount/article/details/115050808)
 - [[网络安全提高篇] 一〇六.SQL注入之手工注入和SQLMAP入门案例详解](https://blog.csdn.net/Eastmount/article/details/115252972)
-- [[网络安全提高篇] 一〇七.安全威胁框架理解及勒索病毒取证溯源分析（蓝队）](https://blog.csdn.net/Eastmount/article/details/114959855)
 - [[网络安全提高篇] 一〇八.Powershell和PowerSploit脚本渗透详解 (1)](https://blog.csdn.net/Eastmount/article/details/115503946)
 
 
