@@ -17,6 +17,8 @@
 [https://github.com/eastmountyxz/NetworkSecuritySelf-study](https://github.com/eastmountyxz/NetworkSecuritySelf-study)
 
 
+**提高班安全文章推荐大家购买我的专栏，写文养家不易，且看且珍惜！加油~**
+
 ---
 
 ## 基础自学篇
